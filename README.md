@@ -1,3 +1,3 @@
 # snippets
 
-Only used for <https://github.com/John-Sear/snippets/wiki>
+Only used for <https://gist.github.com/John-Sear>
